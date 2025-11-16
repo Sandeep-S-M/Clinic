@@ -1,0 +1,12 @@
+FastAPI
+Uvicorn
+sqlmodel
+python-multipart
+passlib
+python-jose
+email-validator
+python-dotenv
+pytest
+httpx
+sqlalchemy
+uvicorn[standard]
